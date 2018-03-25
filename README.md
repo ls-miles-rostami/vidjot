@@ -1,5 +1,5 @@
-### Video idea tracking app
+# Video idea tracking app
 
 ## Uses mongoose and passportjs for local strategy
 
-# npm start to run project
+### npm start to run project
